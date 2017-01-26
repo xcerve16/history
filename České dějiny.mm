@@ -2608,7 +2608,7 @@
 <node CREATED="1475091314623" ID="ID_1815338049" MODIFIED="1475091330234" TEXT="Morava byla sou&#x10d;&#xe1;st&#xed; Attilovy &#x159;&#xed;&#x161;e"/>
 <node CREATED="1475091331254" ID="ID_93156758" MODIFIED="1475091340272" TEXT="&#x10c;echy byly h&#x16f;nsk&#xe9;ho vp&#xe1;du u&#x161;et&#x159;eny"/>
 </node>
-<node CREATED="1479394742149" ID="ID_1705295673" MODIFIED="1485365800565" TEXT="Charakteristika">
+<node CREATED="1479394742149" ID="ID_1705295673" MODIFIED="1485436775348" TEXT="Charakteristika">
 <node CREATED="1479394752123" ID="ID_1616910663" MODIFIED="1479394755184" TEXT="Spole&#x10d;nost">
 <node CREATED="1485365341394" ID="ID_229973898" MODIFIED="1485365816915" TEXT="&#xda;to&#x10d;i&#x161;t&#x11b;">
 <node CREATED="1485365367694" ID="ID_662588608" MODIFIED="1485365410695" TEXT="V&#xfd;&#x161;in&#xe9; a izolovan&#xe9; oblasti"/>
@@ -2642,8 +2642,13 @@
 </node>
 </node>
 </node>
-<node CREATED="1479394785367" ID="ID_1010134853" MODIFIED="1479394788918" TEXT="Vojenstv&#xed;"/>
+<node CREATED="1479394785367" ID="ID_1010134853" MODIFIED="1479394788918" TEXT="Vojenstv&#xed;">
+<node CREATED="1485436779021" ID="ID_562196642" MODIFIED="1485436787223" TEXT="dlouh&#xe9; dvoub&#x159;it&#xe9; me&#x10d;e"/>
+<node CREATED="1485436852532" ID="ID_1965190393" MODIFIED="1485436880512" TEXT="kr&#xe1;tk&#xe9; jednose&#x10d;n&#xe9; &#xfa;zk&#xe9; me&#x10d;e (sax)"/>
+<node CREATED="1485436927988" ID="ID_496850889" MODIFIED="1485436931163" TEXT="reflexn&#xed; luky"/>
 </node>
+</node>
+<node CREATED="1485435371943" FOLDED="true" ID="ID_203043450" MODIFIED="1485435439032" TEXT="Po&#x10d;atky migra&#x10d;n&#xed; epochy ">
 <node CREATED="1485195343235" FOLDED="true" ID="ID_1532213882" MODIFIED="1485365338633" TEXT="Migra&#x10d;n&#xed; procesy a vlny">
 <node CREATED="1485195356030" FOLDED="true" ID="ID_668711870" MODIFIED="1485195750551" TEXT="P&#x159;itahuj&#xed;c&#xed; faktor (&quot;pull-factors&quot;)">
 <node CREATED="1485195465900" ID="ID_1389659790" MODIFIED="1485195474505" TEXT="vysp&#x11b;lej&#x161;&#xed; civilizace"/>
@@ -2706,6 +2711,13 @@
 <node CREATED="1485368313231" ID="ID_949979772" MODIFIED="1485368391711" TEXT="Kultura maj&#xed;c&#xed; z&#xe1;klad u kmene Sv&#xe9;b&#x16f;"/>
 <node CREATED="1485368326767" ID="ID_1222013355" MODIFIED="1485368335508" TEXT="Jej&#xed; nositel&#xe9; ode&#x161;li z &#x10c;ech do Bavor"/>
 </node>
+</node>
+<node CREATED="1485435362040" ID="ID_1284262747" MODIFIED="1485435889561" TEXT="Pomez&#xed; hunsk&#xe9;ho panstv&#xed;">
+<node CREATED="1485435892271" ID="ID_892314897" MODIFIED="1485435892271" TEXT="syst&#xe9;mu diferencovan&#xe9; spole&#x10d;ensk&#xe9; struktury s dominantn&#xed; rol&#xed; barbarsk&#xe9; nobility"/>
+<node CREATED="1485435915217" ID="ID_1435098251" MODIFIED="1485435915217" TEXT="syst&#xe9;mu vazalsk&#xfd;ch vztah&#x16f;"/>
+<node CREATED="1485436191832" ID="ID_109004623" MODIFIED="1485436204230" TEXT="Velmo&#x17e; z Blu&#x10d;iny"/>
+<node CREATED="1485436331855" ID="ID_141737298" MODIFIED="1485436337709" TEXT="Deferomov&#xe1;n&#xed; lebky"/>
+<node CREATED="1485436511724" ID="ID_207447131" MODIFIED="1485436513894" TEXT="Diad&#xe9;my"/>
 <node CREATED="1469427559251" FOLDED="true" ID="ID_1635327443" MODIFIED="1485365332444" TEXT="Lid vina&#x159;ick&#xe9; skupiny">
 <node CREATED="1475091445074" ID="ID_1874492434" MODIFIED="1475091462204" TEXT="5. stol. n. l. zformov&#xe1;n&#xed; kulturn&#xed; skupiny"/>
 <node CREATED="1475092827332" ID="ID_1864904095" MODIFIED="1475092839265" TEXT="Kultura nese n&#xe1;zev podle Vina&#x10d;ic u Kladna"/>
@@ -2736,6 +2748,7 @@
 <node CREATED="1475093024843" ID="ID_393302398" MODIFIED="1475093042588" TEXT="Poh&#x159;ebi&#x161;t&#x11b; B&#x159;&#xed;za u Litom&#x11b;&#x159;ic"/>
 <node CREATED="1475093042860" ID="ID_1024311467" MODIFIED="1475093055329" TEXT="Poh&#x159;ebi&#x161;t&#x11b; Stehel&#x10d;evsi u Kladna"/>
 <node CREATED="1475092992030" ID="ID_393521268" MODIFIED="1475093024244" TEXT="Poh&#x159;ebi&#x161;t&#x11b; Praha-Zli&#x10d;&#xed;n"/>
+</node>
 </node>
 </node>
 <node CREATED="1469427558844" FOLDED="true" ID="ID_333240136" MODIFIED="1484502907242" TEXT="Herulov&#xe9;">

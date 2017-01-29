@@ -2457,7 +2457,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1479415269415" FOLDED="true" ID="ID_1425244422" MODIFIED="1485198188530" TEXT="Ag&#xf3;nie provincie">
+<node CREATED="1479415269415" ID="ID_1425244422" MODIFIED="1485597780990" TEXT="Ag&#xf3;nie provincie">
 <node CREATED="1479847388452" FOLDED="true" ID="ID_1585343869" MODIFIED="1479850026694" TEXT="Rekrutov&#xe1;n&#xed; Germ&#xe1;n&#x16f; do &#x159;ad &#x158;&#xed;man&#x16f;">
 <node CREATED="1479847422773" ID="ID_1521641050" MODIFIED="1479847454467" TEXT="4. stol. n. l. upadala moc &#x158;&#xed;msk&#xe9; &#x159;&#xed;&#x161;e"/>
 <node CREATED="1479847454774" ID="ID_444938424" MODIFIED="1479847484343" TEXT="Germ&#xe1;ni za&#x10d;ali tvo&#x159;it velkou &#x10d;&#xe1;st arm&#xe1;dy"/>
@@ -2487,12 +2487,12 @@
 <node CREATED="1469427558813" ID="ID_949784532" MODIFIED="1479416235675" TEXT="2. pol. 4. stol. podkr&#xe1;l z&#xe1;padokv&#xe1;dsk&#xfd;ch Kv&#xe1;d&#x16f;"/>
 </node>
 </node>
-<node CREATED="1479850311062" FOLDED="true" ID="ID_1570757192" MODIFIED="1479854205195" TEXT="Viduarius">
+<node CREATED="1479850311062" FOLDED="true" ID="ID_1570757192" MODIFIED="1485597972244" TEXT="Viduarius">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1479850134069" ID="ID_217701939" MODIFIED="1479850147607" TEXT="4. stol. n. l. z&#xe1;padokv&#xe1;dsk&#xfd; kr&#xe1;l"/>
 <node CREATED="1479850330459" ID="ID_250046143" MODIFIED="1479850356256" TEXT="N&#xe1;stupcem se stal syn Vistrodurus"/>
 </node>
-<node CREATED="1479850116557" FOLDED="true" ID="ID_548044843" MODIFIED="1479854204773" TEXT="Vistrodurus">
+<node CREATED="1479850116557" FOLDED="true" ID="ID_548044843" MODIFIED="1485597970684" TEXT="Vistrodurus">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1479850134069" ID="ID_1044621430" MODIFIED="1479850147607" TEXT="4. stol. n. l. z&#xe1;padokv&#xe1;dsk&#xfd; kr&#xe1;l"/>
 <node CREATED="1479850359235" ID="ID_1659403801" MODIFIED="1479850364298" TEXT="Jeho otec byl Vidiarius"/>
@@ -2522,7 +2522,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1479850153830" FOLDED="true" ID="ID_641432163" MODIFIED="1479851867780" TEXT="Gabinius">
+<node CREATED="1479850153830" FOLDED="true" ID="ID_641432163" MODIFIED="1485597969364" TEXT="Gabinius">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1479850161406" ID="ID_271378411" MODIFIED="1479850178719" TEXT="2. pol. 4. stol. n. l. kv&#xe1;dsk&#xfd; kr&#xe1;l Gabinius"/>
 <node CREATED="1469427558813" ID="ID_1232963852" MODIFIED="1479851440599" TEXT="r. 374-375 n. l. kv&#xe1;dsko-sarmatsk&#xe1; v&#xe1;lka">
@@ -2550,7 +2550,7 @@
 <node CREATED="1479417069884" ID="ID_1282589558" MODIFIED="1479417103965" TEXT="Skon&#x10d;ilo &#xfa;sili &#x158;&#xed;ma o dobyt&#xed; &#xfa;zem&#xed; Kv&#xe1;d&#x16f;"/>
 </node>
 </node>
-<node CREATED="1479851447210" FOLDED="true" ID="ID_1918779617" MODIFIED="1479851866405" TEXT="Fritigil">
+<node CREATED="1479851447210" FOLDED="true" ID="ID_1918779617" MODIFIED="1485597961965" TEXT="Fritigil">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1479851473624" ID="ID_924492650" MODIFIED="1479851507382" TEXT="r. 375 n. l. markomansk&#xfd; kr&#xe1;l">
 <node CREATED="1479851531142" ID="ID_698379853" MODIFIED="1479851547805" TEXT="Zvolen po vra&#x17e;d&#x11b; kr&#xe1;le kv&#xe1;d&#x16f; Gabinia"/>
@@ -2567,7 +2567,7 @@
 </node>
 <node CREATED="1479851796926" ID="ID_1811438103" MODIFIED="1479851812865" TEXT="V&#xe1;lky s &#x158;&#xed;many proti G&#xf3;t&#x16f;m"/>
 </node>
-<node CREATED="1469427558813" FOLDED="true" ID="ID_583086672" MODIFIED="1485196961611" TEXT="Fritigila">
+<node CREATED="1469427558813" FOLDED="true" ID="ID_583086672" MODIFIED="1485597960909" TEXT="Fritigila">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1469427558813" ID="ID_594216988" MODIFIED="1479847658229" TEXT="2. pol. 4. stol. n. l. markomansk&#xe1; kr&#xe1;lovna"/>
 <node CREATED="1469427558813" ID="ID_1819723332" MODIFIED="1479847652728" TEXT="kon. 4. stol. n. l. pronik&#xe1;n&#xed; k&#x159;es&#x165;anstv&#xed;"/>
@@ -2582,12 +2582,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1479851875169" FOLDED="true" ID="ID_653321118" MODIFIED="1485196960137" TEXT="Radagaisus">
+<node CREATED="1479851875169" FOLDED="true" ID="ID_653321118" MODIFIED="1485597962677" TEXT="Radagaisus">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1479851946713" ID="ID_852978966" MODIFIED="1479851967338" TEXT="p&#x159;el. 4. a 5. stol. n. l. gotsk&#xfd; kr&#xe1;l"/>
+<node CREATED="1485597917320" ID="ID_1885143915" MODIFIED="1485597938856" TEXT="r. 405 n. l. invaze do Starov&#x11b;k&#xe9;ho &#x158;&#xed;ma"/>
 </node>
-<node CREATED="1479854123500" ID="ID_1837317345" MODIFIED="1479854146672" TEXT="Goldigisel">
+<node CREATED="1479854123500" FOLDED="true" ID="ID_1837317345" MODIFIED="1485597975892" TEXT="Hermerich">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1485597800411" ID="ID_1855593733" MODIFIED="1485597946081" TEXT="r. 406 n. l. v&#x16f;dce kmene Sv&#xe9;b&#x16f;"/>
 </node>
 <node CREATED="1479854126462" FOLDED="true" ID="ID_793452720" MODIFIED="1485198187594" TEXT="Migrace &#x10d;&#xe1;sti Germ&#xe1;nu z na&#x161;ho &#xfa;zem&#xed;">
 <node CREATED="1479854184747" ID="ID_895453809" MODIFIED="1479854196305" TEXT="Spolu s Vandali odch&#xe1;zeli do Pyrenej&#xed;"/>
@@ -2609,7 +2611,7 @@
 <node CREATED="1475091331254" ID="ID_93156758" MODIFIED="1475091340272" TEXT="&#x10c;echy byly h&#x16f;nsk&#xe9;ho vp&#xe1;du u&#x161;et&#x159;eny"/>
 </node>
 <node CREATED="1479394742149" ID="ID_1705295673" MODIFIED="1485436775348" TEXT="Charakteristika">
-<node CREATED="1479394752123" ID="ID_1616910663" MODIFIED="1479394755184" TEXT="Spole&#x10d;nost">
+<node CREATED="1479394752123" FOLDED="true" ID="ID_1616910663" MODIFIED="1485544439820" TEXT="Spole&#x10d;nost">
 <node CREATED="1485365341394" ID="ID_229973898" MODIFIED="1485365816915" TEXT="&#xda;to&#x10d;i&#x161;t&#x11b;">
 <node CREATED="1485365367694" ID="ID_662588608" MODIFIED="1485365410695" TEXT="V&#xfd;&#x161;in&#xe9; a izolovan&#xe9; oblasti"/>
 <node CREATED="1485365375473" ID="ID_1259726373" MODIFIED="1485365385499" TEXT="Prav&#x11b;k&#xe9; a keltsk&#xe9; hradi&#x161;t&#x11b;"/>
@@ -2623,7 +2625,7 @@
 <node CREATED="1485365743123" ID="ID_978834206" MODIFIED="1485365751631" TEXT="Hradi&#x161;t&#x11b; Mohelno"/>
 </node>
 </node>
-<node CREATED="1479394747212" ID="ID_1798813451" MODIFIED="1479394751787" TEXT="Filozofie">
+<node CREATED="1479394747212" FOLDED="true" ID="ID_1798813451" MODIFIED="1485544443146" TEXT="Filozofie">
 <node CREATED="1485365877206" ID="ID_47273031" MODIFIED="1485365885282" TEXT="Konec &#x17e;&#xe1;rov&#xe9;ho poh&#x159;b&#xed;v&#xe1;n&#xed;"/>
 <node CREATED="1485365885590" ID="ID_1105897578" MODIFIED="1485365892331" TEXT="Za&#x10d;alo se poh&#x159;b&#xed;vat kostrov&#x11b;"/>
 </node>
@@ -2642,7 +2644,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1479394785367" ID="ID_1010134853" MODIFIED="1479394788918" TEXT="Vojenstv&#xed;">
+<node CREATED="1479394785367" FOLDED="true" ID="ID_1010134853" MODIFIED="1485544442235" TEXT="Vojenstv&#xed;">
 <node CREATED="1485436779021" ID="ID_562196642" MODIFIED="1485436787223" TEXT="dlouh&#xe9; dvoub&#x159;it&#xe9; me&#x10d;e"/>
 <node CREATED="1485436852532" ID="ID_1965190393" MODIFIED="1485436880512" TEXT="kr&#xe1;tk&#xe9; jednose&#x10d;n&#xe9; &#xfa;zk&#xe9; me&#x10d;e (sax)"/>
 <node CREATED="1485436927988" ID="ID_496850889" MODIFIED="1485436931163" TEXT="reflexn&#xed; luky"/>
@@ -2712,13 +2714,15 @@
 <node CREATED="1485368326767" ID="ID_1222013355" MODIFIED="1485368335508" TEXT="Jej&#xed; nositel&#xe9; ode&#x161;li z &#x10c;ech do Bavor"/>
 </node>
 </node>
-<node CREATED="1485435362040" ID="ID_1284262747" MODIFIED="1485435889561" TEXT="Pomez&#xed; hunsk&#xe9;ho panstv&#xed;">
+<node CREATED="1485435362040" FOLDED="true" ID="ID_1284262747" MODIFIED="1485597777825" TEXT="Pomez&#xed; hunsk&#xe9;ho panstv&#xed;">
 <node CREATED="1485435892271" ID="ID_892314897" MODIFIED="1485435892271" TEXT="syst&#xe9;mu diferencovan&#xe9; spole&#x10d;ensk&#xe9; struktury s dominantn&#xed; rol&#xed; barbarsk&#xe9; nobility"/>
 <node CREATED="1485435915217" ID="ID_1435098251" MODIFIED="1485435915217" TEXT="syst&#xe9;mu vazalsk&#xfd;ch vztah&#x16f;"/>
 <node CREATED="1485436191832" ID="ID_109004623" MODIFIED="1485436204230" TEXT="Velmo&#x17e; z Blu&#x10d;iny"/>
 <node CREATED="1485436331855" ID="ID_141737298" MODIFIED="1485436337709" TEXT="Deferomov&#xe1;n&#xed; lebky"/>
 <node CREATED="1485436511724" ID="ID_207447131" MODIFIED="1485436513894" TEXT="Diad&#xe9;my"/>
-<node CREATED="1469427559251" FOLDED="true" ID="ID_1635327443" MODIFIED="1485365332444" TEXT="Lid vina&#x159;ick&#xe9; skupiny">
+<node CREATED="1485544556012" ID="ID_981351024" MODIFIED="1485544581699" TEXT="r. 454/5 n. l. bitva na &#x159;ece Nedeo"/>
+<node CREATED="1485545094420" ID="ID_358179527" MODIFIED="1485545119544" TEXT="70. l&#xe9;ta 5. stol. n. l. posledn&#xed; zm&#xed;&#x148;ka o Kv&#xe1;doch"/>
+<node CREATED="1469427559251" FOLDED="true" ID="ID_1635327443" MODIFIED="1485544549090" TEXT="Lid vina&#x159;ick&#xe9; skupiny">
 <node CREATED="1475091445074" ID="ID_1874492434" MODIFIED="1475091462204" TEXT="5. stol. n. l. zformov&#xe1;n&#xed; kulturn&#xed; skupiny"/>
 <node CREATED="1475092827332" ID="ID_1864904095" MODIFIED="1475092839265" TEXT="Kultura nese n&#xe1;zev podle Vina&#x10d;ic u Kladna"/>
 <node CREATED="1475092721671" ID="ID_1385852642" MODIFIED="1475092802590" TEXT="Kulturu ovliv&#x148;ovali migruj&#xed;c&#xed; skupiny lid&#xed;"/>
